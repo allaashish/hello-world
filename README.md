@@ -1,3 +1,3 @@
 # hello-world
 first one
-But now I addes second one also
+But now I am adding second one also
